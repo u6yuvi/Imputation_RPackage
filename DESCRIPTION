@@ -1,0 +1,11 @@
+Package: Impute
+Type: Package
+Title: Missing Value Imputation
+Version: 0.1.0
+Author: PraxisBA2017Bang
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: This pckage imputes missing values for a dataset.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
